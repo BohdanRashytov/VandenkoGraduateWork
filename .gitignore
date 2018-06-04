@@ -5,4 +5,4 @@
 project/
 target/
 .gitignore
-build.sbt
+src/test/
